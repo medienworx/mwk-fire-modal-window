@@ -14,6 +14,14 @@ System Vorraussetzungen
  * Contao 3.2.x
  * Contao 3.3.x
  * Contao 3.4.x
+ 
+
+Abhängigkeit
+------------
+
+Für die Erweiterung muss _mwk-core mit installiert werden. Inastallation über das Contao Repository wird die Erweiterung als Abhängigkeit automatisch mit installiert. Wenn die Erweiterung über den Contao Composer installiert wird muss diese manuell hinzugefügt werden.
+
+Github: https://github.com/medienworx/_mwk_core
 
 
 Installation
