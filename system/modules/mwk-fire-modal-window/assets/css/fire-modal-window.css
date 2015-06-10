@@ -1,0 +1,18 @@
+
+.cd-section {
+    z-index: 9999;
+}
+
+.cd-modal-content h1,
+.cd-modal-content h2,
+.cd-modal-content h3,
+.cd-modal-content h4,
+.cd-modal-content h5,
+.cd-modal-content h6 {
+    color: #ffffff;
+}
+
+.cd-modal-close {
+    bottom: 50px;
+
+}
